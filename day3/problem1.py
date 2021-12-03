@@ -1,7 +1,6 @@
 # Using new python module to get data, it's cool!
 from aocd.models import Puzzle
 import numpy as np
-import pandas as pd
 
 puzzle = Puzzle(year=2021, day=3)
 
